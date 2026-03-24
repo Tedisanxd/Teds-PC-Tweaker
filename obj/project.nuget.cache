@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5jDBI1AeMoM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tedis\\Downloads\\Coding stuff\\Teds PC Tweaker\\TedsPCTweaker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tedis\\.nuget\\packages\\system.serviceprocess.servicecontroller\\10.0.5\\system.serviceprocess.servicecontroller.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
